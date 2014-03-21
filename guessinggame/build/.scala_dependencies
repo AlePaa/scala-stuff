@@ -1,0 +1,8 @@
+/home/alpa/scala-2.10.3/lib/scala-library.jar:/home/alpa/scala-2.10.3/lib/akka-actors.jar:/home/alpa/scala-2.10.3/lib/diffutils.jar:/home/alpa/scala-2.10.3/lib/jline.jar:/home/alpa/scala-2.10.3/lib/scala-actors-migration.jar:/home/alpa/scala-2.10.3/lib/scala-actors.jar:/home/alpa/scala-2.10.3/lib/scala-compiler.jar:/home/alpa/scala-2.10.3/lib/scala-partest.jar:/home/alpa/scala-2.10.3/lib/scala-reflect.jar:/home/alpa/scala-2.10.3/lib/scala-swing.jar:/home/alpa/scala-2.10.3/lib/scalap.jar:/home/alpa/scala-2.10.3/lib/typesafe-config.jar:/home/alpa/Projects/scala-stuff/guessinggame/build/classes
+-------
+../src/guessinggame/Main.scala -> ../src/guessinggame/Main.scala
+-------
+../src/guessinggame/Main.scala -> classes/guessinggame/Main$$anonfun$getGuesses$1.class
+../src/guessinggame/Main.scala -> classes/guessinggame/Main$.class
+../src/guessinggame/Main.scala -> classes/guessinggame/Main$$anonfun$countPoints$1.class
+../src/guessinggame/Main.scala -> classes/guessinggame/Main.class
