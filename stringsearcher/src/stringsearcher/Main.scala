@@ -8,7 +8,7 @@ object Main {
 
   def main(args: Array[String]): Unit = {
 
-    val file = Console.readLine
+    val file = Console.readLine 
 
     var loop = true
     while (loop) {
@@ -22,7 +22,7 @@ object Main {
     var linecount = 0
     for (line <- Source.fromFile(filename).getLines) {
       if (line.contains(keyword)) {
-        println(linecount + ": " + line)
+       println(linecount + ": " + line)
       }
       linecount = linecount + 1
     }
