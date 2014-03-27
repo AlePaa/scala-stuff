@@ -1,0 +1,17 @@
+/opt/scala-2.10.4/lib/akka-actors.jar:/opt/scala-2.10.4/lib/jline.jar:/opt/scala-2.10.4/lib/scala-actors-migration.jar:/opt/scala-2.10.4/lib/scala-actors.jar:/opt/scala-2.10.4/lib/scala-compiler.jar:/opt/scala-2.10.4/lib/scala-library.jar:/opt/scala-2.10.4/lib/scala-reflect.jar:/opt/scala-2.10.4/lib/scala-swing.jar:/opt/scala-2.10.4/lib/scalap.jar:/opt/scala-2.10.4/lib/typesafe-config.jar:/home/alpa/Projects/scala-stuff/simpleticker/build/classes
+-------
+../src/simpleclock/Main.scala -> ../src/simpleclock/Main.scala
+../src/simpleclock/Main.scala -> ../src/simpleclock/SecondCounter.scala
+../src/simpleclock/SecondCounter.scala -> ../src/simpleclock/SecondCounter.scala
+../src/simpleclock/SecondCounter.scala -> ../src/simpleclock/SecondCounter.scala
+../src/simpleclock/Main.scala -> ../src/simpleclock/Main.scala
+../src/simpleclock/Main.scala -> ../src/simpleclock/SecondCounter.scala
+-------
+../src/simpleclock/Main.scala -> classes/simpleclock/Main$$anonfun$main$1.class
+../src/simpleclock/Main.scala -> classes/simpleclock/Main$.class
+../src/simpleclock/Main.scala -> classes/simpleclock/Main.class
+../src/simpleclock/SecondCounter.scala -> classes/simpleclock/SecondCounter.class
+../src/simpleclock/SecondCounter.scala -> classes/simpleclock/SecondCounter.class
+../src/simpleclock/Main.scala -> classes/simpleclock/Main$$anonfun$main$1.class
+../src/simpleclock/Main.scala -> classes/simpleclock/Main$.class
+../src/simpleclock/Main.scala -> classes/simpleclock/Main.class

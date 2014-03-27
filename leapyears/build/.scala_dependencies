@@ -1,11 +1,8 @@
-/home/alpa/libs/scala-2.10.3/lib/akka-actors.jar:/home/alpa/libs/scala-2.10.3/lib/diffutils.jar:/home/alpa/libs/scala-2.10.3/lib/jline.jar:/home/alpa/libs/scala-2.10.3/lib/scala-actors-migration.jar:/home/alpa/libs/scala-2.10.3/lib/scala-actors.jar:/home/alpa/libs/scala-2.10.3/lib/scala-compiler.jar:/home/alpa/libs/scala-2.10.3/lib/scala-library.jar:/home/alpa/libs/scala-2.10.3/lib/scala-partest.jar:/home/alpa/libs/scala-2.10.3/lib/scala-reflect.jar:/home/alpa/libs/scala-2.10.3/lib/scala-swing.jar:/home/alpa/libs/scala-2.10.3/lib/scalap.jar:/home/alpa/libs/scala-2.10.3/lib/typesafe-config.jar:/home/alpa/Projects/scala-stuff/leapyears/build/classes
+/opt/scala-2.10.4/lib/akka-actors.jar:/opt/scala-2.10.4/lib/jline.jar:/opt/scala-2.10.4/lib/scala-actors-migration.jar:/opt/scala-2.10.4/lib/scala-actors.jar:/opt/scala-2.10.4/lib/scala-compiler.jar:/opt/scala-2.10.4/lib/scala-library.jar:/opt/scala-2.10.4/lib/scala-reflect.jar:/opt/scala-2.10.4/lib/scala-swing.jar:/opt/scala-2.10.4/lib/scalap.jar:/opt/scala-2.10.4/lib/typesafe-config.jar:/home/alpa/Projects/scala-stuff/leapyears/build/classes
 -------
 ../src/leapyears/Main.scala -> ../src/leapyears/Main.scala
 ../src/leapyears/Main.scala -> ../src/leapyears/Main.scala
 -------
-../src/leapyears/Main.scala -> classes/leapyears/Main$$anonfun$main$1.class
-../src/leapyears/Main.scala -> classes/leapyears/Main$.class
-../src/leapyears/Main.scala -> classes/leapyears/Main.class
-../src/leapyears/Main.scala -> classes/leapyears/Main$$anonfun$main$1.class
-../src/leapyears/Main.scala -> classes/leapyears/Main$.class
-../src/leapyears/Main.scala -> classes/leapyears/Main.class
+../src/leapyears/Main.scala -> classes/Main$$anonfun$main$1.class
+../src/leapyears/Main.scala -> classes/Main$.class
+../src/leapyears/Main.scala -> classes/Main.class
